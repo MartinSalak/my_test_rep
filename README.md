@@ -13,10 +13,21 @@ this is just to try how this works, I will link it with gitbook account for my n
 is this another table?
 
 
- <table style="width:100%">
+<style>
+table, th, td {
+  border:1px solid black;
+  border-collapse: collapse;
+}
+</style>
+
+<body>
+
+<h2>100% wide HTML Table</h2>
+
+<table style="width:100%">
   <tr>
-    <th style="width:70%">Firstname</th>
-    <th>Lastname</th>
+    <th style='width:70%'>Firstname</th>
+    <th>Lastname</th> 
     <th>Age</th>
   </tr>
   <tr>
@@ -29,4 +40,13 @@ is this another table?
     <td>Jackson</td>
     <td>94</td>
   </tr>
-</table> 
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+    <td>80</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
