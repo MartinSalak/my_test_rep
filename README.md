@@ -12,7 +12,20 @@ this is just to try how this works, I will link it with gitbook account for my n
 
 is this another table?
 
-| Company name               | Contact         | Country |
-| -------------------------- | --------------- | ------- |
-| Alfreds Futterkiste        | Maria Anders    | Germany |
-| Centro comercial Moctezuma | Francisco Chang | Mexico  |
+ <table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+</table> 
