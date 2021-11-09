@@ -14,7 +14,7 @@ is this another table?
 
 
 
-<table style="width:100%">
+<table style="width:50%">
   <tr>
     <th style='width:70%'>Firstname</th>
     <th>Lastname</th> 
