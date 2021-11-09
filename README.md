@@ -12,9 +12,10 @@ this is just to try how this works, I will link it with gitbook account for my n
 
 is this another table?
 
+
  <table style="width:100%">
   <tr>
-    <th>Firstname</th>
+    <th style="width:70%">Firstname</th>
     <th>Lastname</th>
     <th>Age</th>
   </tr>
