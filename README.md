@@ -13,16 +13,6 @@ this is just to try how this works, I will link it with gitbook account for my n
 is this another table?
 
 
-<style>
-table, th, td {
-  border:1px solid black;
-  border-collapse: collapse;
-}
-</style>
-
-<body>
-
-<h2>100% wide HTML Table</h2>
 
 <table style="width:100%">
   <tr>
