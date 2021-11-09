@@ -1,8 +1,8 @@
 # my\_test\_rep
 
 |              |               |              |               |              |
-| -------- | ------------- | ------------ | ------------- | ------------ |
-| first column | second column | third column | fourth column | fifth column |
+| ------------ | ------------- | ------------ | ------------- | ------------ |
+| first column, plus super long text | second column | third column | fourth column | fifth column |
 | 1            | 2             | 3            | 4             | 5            |
 | 1a           | 2a            | 3a           | 4a            | 5a           |
 
