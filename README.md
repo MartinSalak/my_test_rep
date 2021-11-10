@@ -12,7 +12,7 @@ this is just to try how this works, I will link it with gitbook account for my n
 
 is this another table?
 
-
+I am changing this line to merge some change from dev to master - commit 1
 
 <table style="width:50%">
   <tr>
