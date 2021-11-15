@@ -12,7 +12,8 @@ this is just to try how this works, I will link it with gitbook account for my n
 
 is this another table?
 
-I am changing this line to merge some change from dev to master - commit 1
+
+I am changing this line to some change from dev to master - commit 1
 
 <table style="width:50%">
   <tr>
@@ -41,3 +42,6 @@ I am changing this line to merge some change from dev to master - commit 1
 </html>
 
 here I am trying commit 2
+
+
+this is testl line 2 dev
