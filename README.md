@@ -13,6 +13,7 @@ this is just to try how this works, I will link it with gitbook account for my n
 is this another table? changes to this line
 
 
+I am changing this line to some change from dev to master - commit 1
 
 <table style="width:50%">
   <tr>
@@ -43,3 +44,5 @@ is this another table? changes to this line
 [SAF_example_HOUSE_metric_ZYX_200_saf.guide.xlsx](https://github.com/msalak-scia/my_test_rep/files/7512567/SAF_example_HOUSE_metric_ZYX_200_saf.guide.xlsx)
 
 and also changes here
+here I am trying commit 2
+
